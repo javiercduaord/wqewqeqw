@@ -1,0 +1,250 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V3.1.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="COMEDY CENTRAL HD">
+    <display-name lang="es">COMEDY CENTRAL HD</display-name>
+    <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/comedy_central_latinoamerica-mediano.png" />
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="DISCOVERY HH HD">
+    <display-name lang="es">DISCOVERY HH HD</display-name>
+    <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/discovery_home_and_health_latinoamerica-mediano.png" />
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <programme start="20201226000500 -0600" stop="20201226003000 -0600" channel="COMEDY CENTRAL HD">
+    <title lang="es">Vecinos</title>
+  </programme>
+  <programme start="20201226003000 -0600" stop="20201226005500 -0600" channel="COMEDY CENTRAL HD">
+    <title lang="es">Vecinos</title>
+  </programme>
+  <programme start="20201226005500 -0600" stop="20201226012000 -0600" channel="COMEDY CENTRAL HD">
+    <title lang="es">South Park</title>
+  </programme>
+  <programme start="20201226012000 -0600" stop="20201226014500 -0600" channel="COMEDY CENTRAL HD">
+    <title lang="es">South Park</title>
+  </programme>
+  <programme start="20201226014500 -0600" stop="20201226021000 -0600" channel="COMEDY CENTRAL HD">
+    <title lang="es">South Park</title>
+  </programme>
+  <programme start="20201226021000 -0600" stop="20201226023500 -0600" channel="COMEDY CENTRAL HD">
+    <title lang="es">South Park</title>
+  </programme>
+  <programme start="20201226023500 -0600" stop="20201226030000 -0600" channel="COMEDY CENTRAL HD">
+    <title lang="es">South Park</title>
+  </programme>
+  <programme start="20201226030000 -0600" stop="20201226033000 -0600" channel="COMEDY CENTRAL HD">
+    <title lang="es">South Park</title>
+  </programme>
+  <programme start="20201226033000 -0600" stop="20201226040000 -0600" channel="COMEDY CENTRAL HD">
+    <title lang="es">South Park</title>
+  </programme>
+  <programme start="20201226040000 -0600" stop="20201226043000 -0600" channel="COMEDY CENTRAL HD">
+    <title lang="es">Lip Sync Battle</title>
+  </programme>
+  <programme start="20201226043000 -0600" stop="20201226050000 -0600" channel="COMEDY CENTRAL HD">
+    <title lang="es">Lip Sync Battle</title>
+  </programme>
+  <programme start="20201226050000 -0600" stop="20201226053000 -0600" channel="COMEDY CENTRAL HD">
+    <title lang="es">Idiotas por accidente</title>
+  </programme>
+  <programme start="20201226053000 -0600" stop="20201226060000 -0600" channel="COMEDY CENTRAL HD">
+    <title lang="es">Se rentan Cuartos</title>
+  </programme>
+  <programme start="20201226060000 -0600" stop="20201226063000 -0600" channel="COMEDY CENTRAL HD">
+    <title lang="es">Se rentan Cuartos</title>
+  </programme>
+  <programme start="20201226063000 -0600" stop="20201226070500 -0600" channel="COMEDY CENTRAL HD">
+    <title lang="es">Se rentan Cuartos</title>
+  </programme>
+  <programme start="20201226070500 -0600" stop="20201226074000 -0600" channel="COMEDY CENTRAL HD">
+    <title lang="es">Se rentan Cuartos</title>
+  </programme>
+  <programme start="20201226074000 -0600" stop="20201226081500 -0600" channel="COMEDY CENTRAL HD">
+    <title lang="es">Se rentan Cuartos</title>
+  </programme>
+  <programme start="20201226081500 -0600" stop="20201226085000 -0600" channel="COMEDY CENTRAL HD">
+    <title lang="es">Se rentan Cuartos</title>
+  </programme>
+  <programme start="20201226085000 -0600" stop="20201226092500 -0600" channel="COMEDY CENTRAL HD">
+    <title lang="es">Se rentan Cuartos</title>
+  </programme>
+  <programme start="20201226092500 -0600" stop="20201226100000 -0600" channel="COMEDY CENTRAL HD">
+    <title lang="es">Se rentan Cuartos</title>
+  </programme>
+  <programme start="20201226100000 -0600" stop="20201226103500 -0600" channel="COMEDY CENTRAL HD">
+    <title lang="es">Se rentan Cuartos</title>
+  </programme>
+  <programme start="20201226103500 -0600" stop="20201226111000 -0600" channel="COMEDY CENTRAL HD">
+    <title lang="es">Se rentan Cuartos</title>
+  </programme>
+  <programme start="20201226111000 -0600" stop="20201226114000 -0600" channel="COMEDY CENTRAL HD">
+    <title lang="es">Vecinos</title>
+  </programme>
+  <programme start="20201226114000 -0600" stop="20201226121000 -0600" channel="COMEDY CENTRAL HD">
+    <title lang="es">Vecinos</title>
+  </programme>
+  <programme start="20201226121000 -0600" stop="20201226124000 -0600" channel="COMEDY CENTRAL HD">
+    <title lang="es">Vecinos</title>
+  </programme>
+  <programme start="20201226124000 -0600" stop="20201226131000 -0600" channel="COMEDY CENTRAL HD">
+    <title lang="es">Vecinos</title>
+  </programme>
+  <programme start="20201226131000 -0600" stop="20201226134000 -0600" channel="COMEDY CENTRAL HD">
+    <title lang="es">Yo soy Betty, la fea</title>
+  </programme>
+  <programme start="20201226134000 -0600" stop="20201226140500 -0600" channel="COMEDY CENTRAL HD">
+    <title lang="es">Yo soy Betty, la fea</title>
+  </programme>
+  <programme start="20201226140500 -0600" stop="20201226143500 -0600" channel="COMEDY CENTRAL HD">
+    <title lang="es">Yo soy Betty, la fea</title>
+  </programme>
+  <programme start="20201226143500 -0600" stop="20201226150500 -0600" channel="COMEDY CENTRAL HD">
+    <title lang="es">Yo soy Betty, la fea</title>
+  </programme>
+  <programme start="20201226150500 -0600" stop="20201226153000 -0600" channel="COMEDY CENTRAL HD">
+    <title lang="es">Yo soy Betty, la fea</title>
+  </programme>
+  <programme start="20201226153000 -0600" stop="20201226160000 -0600" channel="COMEDY CENTRAL HD">
+    <title lang="es">Yo soy Betty, la fea</title>
+  </programme>
+  <programme start="20201226160000 -0600" stop="20201226163000 -0600" channel="COMEDY CENTRAL HD">
+    <title lang="es">Yo soy Betty, la fea</title>
+  </programme>
+  <programme start="20201226163000 -0600" stop="20201226165500 -0600" channel="COMEDY CENTRAL HD">
+    <title lang="es">Yo soy Betty, la fea</title>
+  </programme>
+  <programme start="20201226165500 -0600" stop="20201226172500 -0600" channel="COMEDY CENTRAL HD">
+    <title lang="es">Yo soy Betty, la fea</title>
+  </programme>
+  <programme start="20201226172500 -0600" stop="20201226175500 -0600" channel="COMEDY CENTRAL HD">
+    <title lang="es">Yo soy Betty, la fea</title>
+  </programme>
+  <programme start="20201226175500 -0600" stop="20201226182000 -0600" channel="COMEDY CENTRAL HD">
+    <title lang="es">Yo soy Betty, la fea</title>
+  </programme>
+  <programme start="20201226182000 -0600" stop="20201226185000 -0600" channel="COMEDY CENTRAL HD">
+    <title lang="es">Yo soy Betty, la fea</title>
+  </programme>
+  <programme start="20201226185000 -0600" stop="20201226192000 -0600" channel="COMEDY CENTRAL HD">
+    <title lang="es">Yo soy Betty, la fea</title>
+  </programme>
+  <programme start="20201226192000 -0600" stop="20201226195000 -0600" channel="COMEDY CENTRAL HD">
+    <title lang="es">Vecinos</title>
+  </programme>
+  <programme start="20201226195000 -0600" stop="20201226201500 -0600" channel="COMEDY CENTRAL HD">
+    <title lang="es">Vecinos</title>
+  </programme>
+  <programme start="20201226201500 -0600" stop="20201226204500 -0600" channel="COMEDY CENTRAL HD">
+    <title lang="es">Vecinos</title>
+  </programme>
+  <programme start="20201226204500 -0600" stop="20201226211000 -0600" channel="COMEDY CENTRAL HD">
+    <title lang="es">Vecinos</title>
+  </programme>
+  <programme start="20201226211000 -0600" stop="20201226214000 -0600" channel="COMEDY CENTRAL HD">
+    <title lang="es">Vecinos</title>
+  </programme>
+  <programme start="20201226214000 -0600" stop="20201226220500 -0600" channel="COMEDY CENTRAL HD">
+    <title lang="es">Vecinos</title>
+  </programme>
+  <programme start="20201226220500 -0600" stop="20201226223000 -0600" channel="COMEDY CENTRAL HD">
+    <title lang="es">Vecinos</title>
+  </programme>
+  <programme start="20201226223000 -0600" stop="20201226230000 -0600" channel="COMEDY CENTRAL HD">
+    <title lang="es">Ana</title>
+  </programme>
+  <programme start="20201226230000 -0600" stop="20201226233000 -0600" channel="COMEDY CENTRAL HD">
+    <title lang="es">Ana</title>
+  </programme>
+  <programme start="20201226233000 -0600" stop="20201227000000 -0600" channel="COMEDY CENTRAL HD">
+    <title lang="es">Ana</title>
+  </programme>
+  <programme start="20201226000400 -0600" stop="20201226003000 -0600" channel="DISCOVERY HH HD">
+    <title lang="es">Rescatando propiedades</title>
+  </programme>
+  <programme start="20201226003000 -0600" stop="20201226011900 -0600" channel="DISCOVERY HH HD">
+    <title lang="es">Emergencias sexuales</title>
+  </programme>
+  <programme start="20201226011900 -0600" stop="20201226020800 -0600" channel="DISCOVERY HH HD">
+    <title lang="es">Vender para comprar</title>
+  </programme>
+  <programme start="20201226020800 -0600" stop="20201226025700 -0600" channel="DISCOVERY HH HD">
+    <title lang="es">Vender para comprar</title>
+  </programme>
+  <programme start="20201226025700 -0600" stop="20201226034600 -0600" channel="DISCOVERY HH HD">
+    <title lang="es">Vender para comprar</title>
+  </programme>
+  <programme start="20201226034600 -0600" stop="20201226043500 -0600" channel="DISCOVERY HH HD">
+    <title lang="es">Vender para comprar</title>
+  </programme>
+  <programme start="20201226043500 -0600" stop="20201226050000 -0600" channel="DISCOVERY HH HD">
+    <title lang="es">Vestido de novia México</title>
+  </programme>
+  <programme start="20201226050000 -0600" stop="20201226052500 -0600" channel="DISCOVERY HH HD">
+    <title lang="es">Un estilo, un vestido</title>
+  </programme>
+  <programme start="20201226052500 -0600" stop="20201226055100 -0600" channel="DISCOVERY HH HD">
+    <title lang="es">Un estilo, un vestido</title>
+  </programme>
+  <programme start="20201226055100 -0600" stop="20201226064200 -0600" channel="DISCOVERY HH HD">
+    <title lang="es">David Tutera Celebraciones V</title>
+  </programme>
+  <programme start="20201226064200 -0600" stop="20201226082500 -0600" channel="DISCOVERY HH HD">
+    <title lang="es">Cuatro bodas</title>
+  </programme>
+  <programme start="20201226082500 -0600" stop="20201226085100 -0600" channel="DISCOVERY HH HD">
+    <title lang="es">No sabía que estaba embarazad</title>
+  </programme>
+  <programme start="20201226085100 -0600" stop="20201226091800 -0600" channel="DISCOVERY HH HD">
+    <title lang="es">No sabía que estaba embarazad</title>
+  </programme>
+  <programme start="20201226091800 -0600" stop="20201226094400 -0600" channel="DISCOVERY HH HD">
+    <title lang="es">No sabía que estaba embarazad</title>
+  </programme>
+  <programme start="20201226094400 -0600" stop="20201226101000 -0600" channel="DISCOVERY HH HD">
+    <title lang="es">No sabía que estaba embarazad</title>
+  </programme>
+  <programme start="20201226101000 -0600" stop="20201226110000 -0600" channel="DISCOVERY HH HD">
+    <title lang="es">Nacimientos inesperados</title>
+  </programme>
+  <programme start="20201226110000 -0600" stop="20201226115100 -0600" channel="DISCOVERY HH HD">
+    <title lang="es">Error en mi diagnóstico</title>
+  </programme>
+  <programme start="20201226115100 -0600" stop="20201226124200 -0600" channel="DISCOVERY HH HD">
+    <title lang="es">A la medida</title>
+  </programme>
+  <programme start="20201226124200 -0600" stop="20201226143200 -0600" channel="DISCOVERY HH HD">
+    <title lang="es">Fábrica de bodas</title>
+  </programme>
+  <programme start="20201226143200 -0600" stop="20201226152400 -0600" channel="DISCOVERY HH HD">
+    <title lang="es">Campeonato de reposteros</title>
+  </programme>
+  <programme start="20201226152400 -0600" stop="20201226161800 -0600" channel="DISCOVERY HH HD">
+    <title lang="es">Campeonato de reposteros</title>
+  </programme>
+  <programme start="20201226161800 -0600" stop="20201226171200 -0600" channel="DISCOVERY HH HD">
+    <title lang="es">Vestido de novia Inglaterra</title>
+  </programme>
+  <programme start="20201226171200 -0600" stop="20201226180600 -0600" channel="DISCOVERY HH HD">
+    <title lang="es">Vestido de novia Reino Unido</title>
+  </programme>
+  <programme start="20201226180600 -0600" stop="20201226190200 -0600" channel="DISCOVERY HH HD">
+    <title lang="es">Vestido de novia</title>
+  </programme>
+  <programme start="20201226190200 -0600" stop="20201226202500 -0600" channel="DISCOVERY HH HD">
+    <title lang="es">Dra. Sandra Lee edición navi</title>
+  </programme>
+  <programme start="20201226202500 -0600" stop="20201226212100 -0600" channel="DISCOVERY HH HD">
+    <title lang="es">Dra. Sandra Lee Especialista</title>
+  </programme>
+  <programme start="20201226212100 -0600" stop="20201226214900 -0600" channel="DISCOVERY HH HD">
+    <title lang="es">Dra. Sandra Lee consulta</title>
+  </programme>
+  <programme start="20201226214900 -0600" stop="20201226224500 -0600" channel="DISCOVERY HH HD">
+    <title lang="es">Dra. Sandra Lee Especialista</title>
+  </programme>
+  <programme start="20201226224500 -0600" stop="20201226233900 -0600" channel="DISCOVERY HH HD">
+    <title lang="es">Clínica de salud sexual</title>
+  </programme>
+  <programme start="20201226233900 -0600" stop="20201227000400 -0600" channel="DISCOVERY HH HD">
+    <title lang="es">Rescatando propiedades</title>
+  </programme>
+</tv>
